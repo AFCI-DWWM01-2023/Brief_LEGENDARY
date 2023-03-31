@@ -2,4 +2,4 @@
 Bienvenue dans Legendary
 ## Énoncé Legandary  
 
-Pour aller sur mon site: [Ariane]()  
+Récupération de l'énoncé: [Legandary](https://github.com/AFCI-DWWM01-2023/LEGENDARY.git)  
