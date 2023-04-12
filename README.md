@@ -9,4 +9,4 @@ Vous pouvez faire l'intégration Web en Less ou en CSS (A vous de voir)
 * Format Tablette
 * Format Mobile  
 
-Récupération de l'énoncé: [Legendary](https://github.com/AFCI-DWWM01-2023/LEGENDARY.git)  
+![Legendary](profile/img/Legendary.jpg)&nbsp;&nbsp;
